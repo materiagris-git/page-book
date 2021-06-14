@@ -70,7 +70,9 @@ body {
 
 @media only screen and (max-width: 900px) {
   .img-book {
-    display: none;
+    height: auto;
+    width: 100%;
+    margin: auto;
   }
 
   .txt-right {
